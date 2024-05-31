@@ -1,0 +1,16 @@
+.imgCust{
+    height:300px;
+}
+.prodImgMain{
+    text-align: center;
+}
+#prodImgMainId{
+    height: 250px;
+    width: 330px;
+}
+.stkAltr{
+    color:red;
+}
+.pDesc{
+    text-align: justify;
+}
